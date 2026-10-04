@@ -3,7 +3,7 @@ import random
 
 
 WIDTH = 1000
-HEIGHT = 700
+HEIGHT = 800
 FPS = 60
 
 init()
